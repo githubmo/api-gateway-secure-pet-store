@@ -24,8 +24,8 @@ This workshop has a few exercises to show you to how to create and deploy your A
 * An S3 website bucket for the front-end application
 * A Cognito Identity Pool to authenticate the users
 * IAM roles for the Lambda function and API Gateway
-* DynamoDB 'pets' table to store the user login information
-* DynamoDB 'users' table to store the pets information per user
+* DynamoDB 'users' table to store the user login information
+* DynamoDB 'pets' table to store the pets information per user
 
 Optionally there is another CloudFormation template that can be used to create a CLI instance to run the AWS CLI and Maven commands via Docker.
 
